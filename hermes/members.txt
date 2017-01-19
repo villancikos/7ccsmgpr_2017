@@ -1,4 +1,0 @@
-1678493/1	Ardeshiri, Arsalan	arsalan.ardeshiri@kcl.ac.uk	Current	Advanced Software Engineering With Management	
-1663661/1	Tyagi, Vashu	vashu.tyagi@kcl.ac.uk	Current	Computing And Internet Systems	
-1678724/1	Jabir, Khalil	khalil.jabir@kcl.ac.uk	Current	Advanced Software Engineering	
-1657226/1	Kapilavayi, Suhrita	suhrita.kapilavayi@kcl.ac.uk	Current	Computing And Security
