@@ -2,10 +2,8 @@
 1220318/1	Azizi, Ozhan	ozhan.azizi@kcl.ac.uk	Current	Advanced Software Engineering	
 1229815/1	Zain, Sara	sara.zain@kcl.ac.uk	Current	Computing And Security	
 1319061/1	Naumov, Valentin	valentin.naumov@kcl.ac.uk	Current	Computing And Security	
-1319741/2	Van Der Valk, Jasper Adriaan	jasper.van_der_valk@kcl.ac.uk	Current	Intelligent Systems	
 1322382/3	Vasile, Tudor Dan	tudor.vasile@kcl.ac.uk	Current	Computing And Security	
 1331498/1	Stampelos, Stamatios	stamatios.stampelos@kcl.ac.uk	Current	Computing And Security	
-1516452/1	Shi, Guobin	guobin.shi@kcl.ac.uk	Current	Robotics	
 1567297/2	Chen, Jing	jing.2.chen@kcl.ac.uk	Current	Computing And Security	
 1570348/2	Park, Woo Min	woo_min.park@kcl.ac.uk	Current	Intelligent Systems	
 1574560/1	Xu, Heyang	heyang.xu@kcl.ac.uk	Current	Computing And Security	
